@@ -2,6 +2,9 @@
 
 This is my personal portfolio website, meticulously crafted with the power of Node.js, React.js, and Next.js. While it's currently a work in progress, I'm excited to share its development and watch it evolve into a showcase of my skills and experience.
 
+**Live Preview**
+Curious to see the progress? Check out the live website here: https://main--roustack.netlify.app/
+
 ## Technologies Employed
 
 - **Node.js:** Providing the robust backend and server-side JavaScript environment.
